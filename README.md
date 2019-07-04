@@ -14,29 +14,25 @@
 
 
 ## Schedule (스케쥴)
-    -	병렬프로그래밍소개 ([PPT](./PPTs/Robot_01_Intro. Parallel Computing.pdf), [pthread / openmp / avx](./01_cuda_lab))
-    -	GPU 병렬프로그래밍 기초
-    -	GPU 아키텍쳐
-    - GPU 병렬프로그래밍: 실습
-      - colab.research.goole.com에서 GPU 활용하기 ([hello_CUDA.ipynb](./hello_CUDA.ipynb))
-      - [Google Drive와 연동하기](https://github.com/jeonggunlee/CUDATeaching/blob/master/colab_gdrive.ipynb)
-      - [Udacity GPU Programming 강좌 예제 파일](https://github.com/jeonggunlee/cs344/)
-    
-    -	GPU 프로그래밍: 최적화
-    -	GPU 프로그래밍: 최적화 실습
-    -	Parallel Transpose 최적화
-    -	Parallel Reduction 최적화
-    -	CUDA 최적화 실습
-    
-    -	병렬 CUDA 벡터곱 최적화 (2시간)
-    -	Host-GPU 인터페이싱: Streams
-    -	Host-GPU 인터페이싱: Streams 실습
-    -	개발사례: GPU 기반 초음파영상처리
-
+- 병렬프로그래밍소개 ([PPT](./PPTs/Robot_01_Intro. Parallel Computing.pdf), [pthread / openmp / avx](./01_cuda_lab))
+- GPU 병렬프로그래밍 기초
+- GPU 아키텍쳐
+- GPU 병렬프로그래밍: 실습
+   - colab.research.goole.com에서 GPU 활용하기 ([hello_CUDA.ipynb](./hello_CUDA.ipynb))
+   - [Google Drive와 연동하기](https://github.com/jeonggunlee/CUDATeaching/blob/master/colab_gdrive.ipynb)
+   - [Udacity GPU Programming 강좌 예제 파일](https://github.com/jeonggunlee/cs344/)
+- GPU 프로그래밍: 최적화
+- GPU 프로그래밍: 최적화 실습
+- Parallel Transpose 최적화
+- Parallel Reduction 최적화
+- CUDA 최적화 실습 
+- 병렬 CUDA 벡터곱 최적화
+- Host-GPU 인터페이싱: Streams
+- Host-GPU 인터페이싱: Streams 실습
 *  *  *
 
 ## REFERENCES (참조Sites)
-  -Good-to-See Source Example: https://github.com/jeonggunlee/cs344
+  - Good-to-See Source Example: https://github.com/jeonggunlee/cs344
   - CUDA Sample Directory: C:\ProgramData\NVIDIA Corporation\CUDA Samples
   - CUDA 최고의강좌! 강추! Udacity [Intro to Parallel Programming](https://www.youtube.com/watch?v=F620ommtjqk&list=PLAwxTw4SYaPnFKojVQrmyOGFCqHTxfdv2)
   - Udacity [High Performance Computer Architecture](https://www.youtube.com/watch?v=tawb_aeYQ2g&list=PLAwxTw4SYaPmqpjgrmf4-DGlaeV0om4iP&index=1)
