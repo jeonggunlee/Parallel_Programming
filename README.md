@@ -7,11 +7,11 @@
 
 ### 주요 자료 (Main Teaching Materials)
 - 강의 자료:
-   - [PPT 디렉토리](https://github.com/jeonggunlee/CUDATeaching/tree/master/PPTs)(All the lecture materials can be found in [PPT Directory](https://github.com/jeonggunlee/CUDATeaching/tree/master/PPTs))
+   - [PPT 디렉토리](https://github.com/jeonggunlee/Parallel_Programming/PPTs)(All the lecture materials can be found in [PPT Directory](https://github.com/jeonggunlee/CUDATeaching/tree/master/PPTs))
 - 실습 자료 (Lab materials):
-   - [01_a_lab](https://github.com/jeonggunlee/CUDATeaching/tree/master/01_cuda_lab)
-   - [02_a_lab](https://github.com/jeonggunlee/CUDATeaching/tree/master/02_cuda_lab)
-   - [03_a_lab](https://github.com/jeonggunlee/CUDATeaching/tree/master/03_cuda_lab)
+   - [01_a_lab](https://github.com/jeonggunlee/Parallel_Programming/01_cuda_lab)
+   - [02_a_lab](https://github.com/jeonggunlee/Parallel_Programming/02_cuda_lab)
+   - [03_a_lab](https://github.com/jeonggunlee/Parallel_Programming/03_cuda_lab)
 - Most of lab materials are developed with Google Colab environment. So you can do the lab practices with web browser in your computer without any GPU.
 - [짧은 Youtube 동영상 강의](https://www.youtube.com/playlist?list=PLKZ28p5qq0DGLcO6QZdMSG_jsprRtG15C) (Short lecture movie clips can be found in [Short Introduction to CUDA in Youtube](https://www.youtube.com/playlist?list=PLKZ28p5qq0DGLcO6QZdMSG_jsprRtG15C))
 
