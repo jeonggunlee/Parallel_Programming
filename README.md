@@ -16,7 +16,7 @@
 - [짧은 Youtube 동영상 강의](https://www.youtube.com/playlist?list=PLKZ28p5qq0DGLcO6QZdMSG_jsprRtG15C) (Short lecture movie clips can be found in [Short Introduction to CUDA in Youtube](https://www.youtube.com/playlist?list=PLKZ28p5qq0DGLcO6QZdMSG_jsprRtG15C))
 
 ## Schedule (스케쥴)
-- 병렬프로그래밍소개 ([PPT](https://github.com/jeonggunlee/Parallel_Programming/tree/master/PPTs), [pthread / openmp / avx](https://github.com/jeonggunlee/Parallel_Programming/tree/master/01_cuda_lab))
+- 병렬프로그래밍소개 ([PPT](https://github.com/jeonggunlee/Parallel_Programming/tree/master/PPTs)
 - GPU 병렬프로그래밍 기초
 - GPU 아키텍쳐
 - GPU 병렬프로그래밍: 실습
@@ -26,11 +26,16 @@
 - GPU 프로그래밍: 최적화
 - GPU 프로그래밍: 최적화 실습
 - Parallel Transpose 최적화
-- Parallel Reduction 최적화
 - CUDA 최적화 실습 
 - 병렬 CUDA 벡터곱 최적화
-- Host-GPU 인터페이싱: Streams
-- Host-GPU 인터페이싱: Streams 실습
+- [옵션] Parallel Reduction 최적화
+- [옵션] Host-GPU 인터페이싱: Streams
+- [옵션] Host-GPU 인터페이싱: Streams 실습
+
+## Capstone (스케쥴)
+- Nvidia Jetson Board를 이용한 지능형 CCTV 개발 프로젝트
+- 대학원생 멘토 지원
+
 *  *  *
 
 ## REFERENCES (참조Sites)
