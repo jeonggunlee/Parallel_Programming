@@ -7,7 +7,7 @@
 
 ### 주요 자료 (Main Teaching Materials)
 - 강의 자료:
-   - [PPT 디렉토리](https://github.com/jeonggunlee/Parallel_Programming/PPTs)(All the lecture materials can be found in [PPT Directory](https://github.com/jeonggunlee/CUDATeaching/tree/master/PPTs))
+   - [PPT 디렉토리](https://github.com/jeonggunlee/Parallel_Programming/tree/master/PPTs)(All the lecture materials can be found in [PPT Directory](https://github.com/jeonggunlee/Parallel_Programming/tree/master/PPTs))
 - 실습 자료 (Lab materials):
    - [01_a_lab](https://github.com/jeonggunlee/Parallel_Programming/tree/master/01_cuda_lab)
    - [02_a_lab](https://github.com/jeonggunlee/Parallel_Programming/tree/master/02_cuda_lab)
@@ -17,12 +17,12 @@
 
 
 ## Schedule (스케쥴)
-- 병렬프로그래밍소개 ([PPT](./tree/masterPPTs/), [pthread / openmp / avx](./01_cuda_lab))
+- 병렬프로그래밍소개 ([PPT](https://github.com/jeonggunlee/Parallel_Programming/tree/master/PPTs), [pthread / openmp / avx](https://github.com/jeonggunlee/Parallel_Programming/tree/master/01_cuda_lab))
 - GPU 병렬프로그래밍 기초
 - GPU 아키텍쳐
 - GPU 병렬프로그래밍: 실습
    - colab.research.goole.com에서 GPU 활용하기 ([hello_CUDA.ipynb](./hello_CUDA.ipynb))
-   - [Google Drive와 연동하기](https://github.com/jeonggunlee/CUDATeaching/blob/master/colab_gdrive.ipynb)
+   - [Google Drive와 연동하기](https://github.com/jeonggunlee/Parallel_Programming/blob/master/colab_gdrive.ipynb)
    - [Udacity GPU Programming 강좌 예제 파일](https://github.com/jeonggunlee/cs344/)
 - GPU 프로그래밍: 최적화
 - GPU 프로그래밍: 최적화 실습
