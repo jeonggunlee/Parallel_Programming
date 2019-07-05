@@ -14,7 +14,7 @@
    - [03_a_lab](https://github.com/jeonggunlee/Parallel_Programming/tree/master/03_cuda_lab)
 - Most of lab materials are developed with Google Colab environment. So you can do the lab practices with web browser in your computer without any GPU.
 - [짧은 Youtube 동영상 강의](https://www.youtube.com/playlist?list=PLKZ28p5qq0DGLcO6QZdMSG_jsprRtG15C) (Short lecture movie clips can be found in [Short Introduction to CUDA in Youtube](https://www.youtube.com/playlist?list=PLKZ28p5qq0DGLcO6QZdMSG_jsprRtG15C))
-   - [![Video Label](https://www.youtube.com/watch?v=zdqZjVxIHT4&list=PLKZ28p5qq0DGLcO6QZdMSG_jsprRtG15C/0.jpg)](https://www.youtube.com/watch?v=zdqZjVxIHT4&list=PLKZ28p5qq0DGLcO6QZdMSG_jsprRtG15C&index=2&t=0s)
+   - [![Video Label](https://www.youtube.com/watch?v=zdqZjVxIHT4&list=PLKZ28p5qq0DGLcO6QZdMSG_jsprRtG15C%2F0.jpg)](https://www.youtube.com/watch?v=zdqZjVxIHT4&list=PLKZ28p5qq0DGLcO6QZdMSG_jsprRtG15C&index=2&t=0s)
 
 ## Schedule (스케쥴)
 - 병렬프로그래밍소개 ([PPT](https://github.com/jeonggunlee/Parallel_Programming/tree/master/PPTs), [pthread / openmp / avx](https://github.com/jeonggunlee/Parallel_Programming/tree/master/01_cuda_lab))
