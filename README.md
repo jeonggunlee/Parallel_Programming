@@ -16,7 +16,7 @@
 - [짧은 Youtube 동영상 강의](https://www.youtube.com/playlist?list=PLKZ28p5qq0DGLcO6QZdMSG_jsprRtG15C) (Short lecture movie clips can be found in [Short Introduction to CUDA in Youtube](https://www.youtube.com/playlist?list=PLKZ28p5qq0DGLcO6QZdMSG_jsprRtG15C))
 
 ## Schedule (스케쥴)
-- 병렬프로그래밍소개 ([PPT](https://github.com/jeonggunlee/Parallel_Programming/tree/master/PPTs)
+- 병렬프로그래밍소개 ([PPT](https://github.com/jeonggunlee/Parallel_Programming/tree/master/PPTs))
 - GPU CUDA 병렬프로그래밍 기초
 - GPU 아키텍쳐
 - GPU CUDA 병렬프로그래밍: 실습
