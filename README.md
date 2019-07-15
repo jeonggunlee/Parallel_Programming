@@ -1,6 +1,6 @@
 ## 한림대학교 소프트웨어융합대학 빅데이터전공 교과목 / 2019 가을 학기
 # GPU를 이용한 병렬 프로그래밍 (CUDA 병렬 프로그래밍)
-## High Performance Parallel Programming with Nvidia GPU
+## High Performance Parallel Programming with Nvidia GPU and CUDA
 
 - 강사: 이정근, 한림대학교 소프트웨어융합대학 교수 (Lecturer: Jeong-Gun Lee, Hallym University)
 - Web: www.onchip.net
@@ -12,7 +12,7 @@
    - [01_a_lab](https://github.com/jeonggunlee/Parallel_Programming/tree/master/01_cuda_lab)
    - [02_a_lab](https://github.com/jeonggunlee/Parallel_Programming/tree/master/02_cuda_lab)
    - [03_a_lab](https://github.com/jeonggunlee/Parallel_Programming/tree/master/03_cuda_lab)
-- Most of lab materials are developed with Google Colab environment. So you can do the lab practices with web browser in your computer without any GPU.
+- GPU 실습 코드들은 모두 Colab 환경에서 진행될수 있도록 개발되었습니다. (Most of lab materials are developed with Google Colab environment. So you can do the lab practices with web browser in your computer without any GPU.)
 - [짧은 Youtube 동영상 강의](https://www.youtube.com/playlist?list=PLKZ28p5qq0DGLcO6QZdMSG_jsprRtG15C) (Short lecture movie clips can be found in [Short Introduction to CUDA in Youtube](https://www.youtube.com/playlist?list=PLKZ28p5qq0DGLcO6QZdMSG_jsprRtG15C))
 
 ## Schedule (스케쥴)
