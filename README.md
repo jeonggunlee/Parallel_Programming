@@ -12,28 +12,28 @@
    - [01_a_lab](https://github.com/jeonggunlee/Parallel_Programming/tree/master/01_cuda_lab)
    - [02_a_lab](https://github.com/jeonggunlee/Parallel_Programming/tree/master/02_cuda_lab)
    - [03_a_lab](https://github.com/jeonggunlee/Parallel_Programming/tree/master/03_cuda_lab)
-- GPU 실습 코드들은 모두 Colab 환경에서 진행될수 있도록 개발되었습니다. (Most of lab materials are developed with Google Colab environment. So you can do the lab practices with web browser in your computer without any GPU.)
+- GPU 실습 코드들은 모두 ```구글 Colab``` 환경에서 진행될수 있도록 개발되었습니다. (Most of lab materials are developed with ```Google Colab``` environment. So you can do the lab practices with web browser in your computer without any GPU.)
 - [짧은 Youtube 동영상 강의](https://www.youtube.com/playlist?list=PLKZ28p5qq0DGLcO6QZdMSG_jsprRtG15C) (Short lecture movie clips can be found in [Short Introduction to CUDA in Youtube](https://www.youtube.com/playlist?list=PLKZ28p5qq0DGLcO6QZdMSG_jsprRtG15C))
 
 ## Schedule (스케쥴)
 - 병렬프로그래밍소개 ([PPT](https://github.com/jeonggunlee/Parallel_Programming/tree/master/PPTs)
-- GPU 병렬프로그래밍 기초
+- GPU CUDA 병렬프로그래밍 기초
 - GPU 아키텍쳐
-- GPU 병렬프로그래밍: 실습
+- GPU CUDA 병렬프로그래밍: 실습
    - colab.research.goole.com에서 GPU 활용하기 ([hello_CUDA.ipynb](./hello_CUDA.ipynb))
    - [Google Drive와 연동하기](https://github.com/jeonggunlee/Parallel_Programming/blob/master/colab_gdrive.ipynb)
    - [Udacity GPU Programming 강좌 예제 파일](https://github.com/jeonggunlee/cs344/)
-- GPU 프로그래밍: 최적화
-- GPU 프로그래밍: 최적화 실습
+- GPU CUDA 프로그래밍: 최적화
+- GPU CUDA 프로그래밍: 최적화 실습
 - Parallel Transpose 최적화
 - CUDA 최적화 실습 
-- 병렬 CUDA 벡터곱 최적화
+- 병렬 CUDA 벡터곱/행렬곱 최적화
 - [옵션] Parallel Reduction 최적화
 - [옵션] Host-GPU 인터페이싱: Streams
 - [옵션] Host-GPU 인터페이싱: Streams 실습
 
 ## Capstone (스케쥴)
-- Nvidia Jetson Board를 이용한 지능형 CCTV 개발 프로젝트
+- ```Nvidia Jetson Board```를 이용한 지능형 CCTV 개발 프로젝트
 - 대학원생 멘토 지원
 
 *  *  *
