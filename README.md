@@ -34,6 +34,8 @@
 
 ## Capstone (스케쥴)
 - ```Nvidia Jetson Board```를 이용한 지능형 CCTV 개발 프로젝트
+   - [Nvidia 사이트 정보](https://developer.nvidia.com/embedded/jetson-nano-developer-kit)
+   - [Jetson Nano 객체 인식 데모](https://www.youtube.com/watch?v=k5pXXmTkPNM)
 - 대학원생 멘토 지원
 
 *  *  *
