@@ -36,6 +36,14 @@
 - ```Nvidia Jetson Board```를 이용한 지능형 CCTV 개발 프로젝트
    - [Nvidia 사이트 정보](https://developer.nvidia.com/embedded/jetson-nano-developer-kit)
    - [Jetson Nano 객체 인식 데모](https://www.youtube.com/watch?v=k5pXXmTkPNM)
+   - [YOLO 객체인식 Github](https://github.com/pjreddie/darknet)
+   - [YOLO 객체인식 Main 홈페이지](https://pjreddie.com/darknet/)
+   - [YOLO 객체인식 동영상](https://www.youtube.com/watch?time_continue=22&v=MPU2HistivI)
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/watch?time_continue=22&v=MPU2HistivI"
+frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 - 대학원생 멘토 지원
 
 *  *  *
