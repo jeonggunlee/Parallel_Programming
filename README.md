@@ -39,7 +39,7 @@
    - [YOLO 객체인식 Github](https://github.com/pjreddie/darknet)
    - [YOLO 객체인식 Main 홈페이지](https://pjreddie.com/darknet/)
    - [YOLO 객체인식 동영상](https://www.youtube.com/watch?time_continue=22&v=MPU2HistivI)
-[![YOLO](https://www.youtube.com/watch?time_continue=0&v=MPU2HistivI/0.jpg)](https://www.youtube.com/watch?time_continue=0&v=MPU2HistivI "YOLO")
+[![YOLO](https://www.youtube.com/watch?v=MPU2HistivI/0.jpg)](https://www.youtube.com/watch?v=MPU2HistivI "YOLO")
 
 - 대학원생 멘토 지원
 
